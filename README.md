@@ -1,1 +1,1 @@
-# 38Garvit_23-27_Sem-II_DSA-Assignment
+This repository contains DSA codes which includes linked list, Stacks, Queues, Trees, Graph etc.
